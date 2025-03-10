@@ -16,7 +16,7 @@ This project implements a console calculator that performs basic arithmetic oper
 ## Usage
 1.Clone the repository: 
 
-    git clone https://github.com/yourusername/console-calculator.git
+    git clone https://github.com/yourusername/calculator.git
 
 2.Compile the Java files:
 
